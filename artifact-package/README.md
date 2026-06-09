@@ -23,6 +23,7 @@ Markdown is becoming an agent control surface, but teams still need Docs-like co
 
 ## Generated artifacts
 - Prototype: [[../../Prototypes/Markdown Review Control Plane/README|Markdown Review Room prototype]] (`index.html`)
+- Trial packet: [[../../Prototypes/Markdown Review Control Plane/First Real Trial Packet|First Real Trial Packet]]
 - Infographic: [[../../Infographics/Markdown Review Control Plane Workflow|Markdown Review Control Plane Workflow]]
 - Skill draft: [[../../Skills/markdown-review-control-plane/SKILL|markdown-review-control-plane skill draft]]
 - Improvement loop: [[../../Improvement-Loops/Markdown Review Control Plane Loop|Markdown Review Control Plane Loop]]
@@ -48,11 +49,12 @@ Validation test: use on one X-Intel artifact package README and measure whether 
 ```
 
 ## Improvement backlog
-- Fill the first real trial packet before claiming validation.
+- Fill the first real trial packet before claiming validation. ✅ Template ready; real evidence still pending.
 - Add one example input/output pair from a live VinClawLabs or X-Intel artifact workflow.
 - Decide whether the skill draft should be promoted after two clean runs.
 
 ## Change log
+- 2026-06-09: Added a fillable first real trial packet and wired it into the prototype/package/loop/repo mirror; no validation claimed.
 - 2026-06-09: Created package, prototype, infographic, skill draft, improvement loop, and standalone GitHub repo mirror.
 
 ## GitHub repo
