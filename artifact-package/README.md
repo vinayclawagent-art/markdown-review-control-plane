@@ -25,6 +25,7 @@ Markdown is becoming an agent control surface, but teams still need Docs-like co
 - Prototype: [[../../Prototypes/Markdown Review Control Plane/README|Markdown Review Room prototype]] (`index.html`)
 - Trial packet: [[../../Prototypes/Markdown Review Control Plane/First Real Trial Packet|First Real Trial Packet]]
 - Decision card: [[../../Prototypes/Markdown Review Control Plane/Promotion Decision Card|Promotion Decision Card]]
+- Debrief template: [[../../Prototypes/Markdown Review Control Plane/Post-Trial Debrief Template|Post-Trial Debrief Template]]
 - Infographic: [[../../Infographics/Markdown Review Control Plane Workflow|Markdown Review Control Plane Workflow]]
 - Skill draft: [[../../Skills/markdown-review-control-plane/SKILL|markdown-review-control-plane skill draft]]
 - Improvement loop: [[../../Improvement-Loops/Markdown Review Control Plane Loop|Markdown Review Control Plane Loop]]
@@ -53,8 +54,10 @@ Validation test: use on one X-Intel artifact package README and measure whether 
 - Fill the first real trial packet before claiming validation. ✅ Template ready; real evidence still pending.
 - Add one example input/output pair from a live VinClawLabs or X-Intel artifact workflow.
 - Decide whether the skill draft should be promoted after two clean runs. ✅ Decision card ready; real evidence still pending.
+- Add a post-trial debrief template that converts future review evidence into concrete patch decisions. ✅ Template ready; real evidence still pending.
 
 ## Change log
+- 2026-06-10: Added a post-trial debrief template so future markdown-review evidence turns into source-backed README/prototype/skill patch decisions before any promotion claim.
 - 2026-06-09: Added a promotion decision card so the next real trial can end in promote / pilot-only / iterate / hold without overstating validation.
 - 2026-06-09: Added a fillable first real trial packet and wired it into the prototype/package/loop/repo mirror; no validation claimed.
 - 2026-06-09: Created package, prototype, infographic, skill draft, improvement loop, and standalone GitHub repo mirror.

@@ -15,12 +15,13 @@ Inspired by: /home/vinclaw/Documents/Obsidian/x-intel/Artifacts/Generated-Packag
 ## Quickstart
 Open `prototype/index.html` locally if present, then read the package README and improvement loop before making claims of validation.
 
-For the next real workflow, fill `prototype/First Real Trial Packet.md` with source-backed before/after markdown, comment export, patch diff, and reviewer evidence, then complete `prototype/Promotion Decision Card.md`.
+For the next real workflow, fill `prototype/First Real Trial Packet.md` with source-backed before/after markdown, comment export, patch diff, and reviewer evidence, complete `prototype/Promotion Decision Card.md`, then use `prototype/Post-Trial Debrief Template.md` to turn evidence into patch decisions.
 
 ## Roadmap
 - Run one real trial using the packet.
 - Attach evidence to the packet.
 - Decide promote / pilot-only / iterate / hold with the decision card.
+- Fill the post-trial debrief before patching README, prototype, or skill wording.
 
 ## Contributing
 Keep source links, evidence gates, and no-fabricated-validation wording intact.
